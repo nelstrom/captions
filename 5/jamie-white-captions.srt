@@ -1,6 +1,6 @@
 ﻿1
 00:00:01,270 --> 00:00:02,660
-Welcome to Peer to Peer.
+Welcome to Peer to Peer
 
 2
 00:00:03,190 --> 00:00:06,480
